@@ -1,0 +1,15 @@
+C:\GeekBrains\C#\Practice\Lesson_9\obj\Debug\net6.0\Lesson_9.csproj.AssemblyReference.cache
+C:\GeekBrains\C#\Practice\Lesson_9\obj\Debug\net6.0\Lesson_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\C#\Practice\Lesson_9\obj\Debug\net6.0\Lesson_9.AssemblyInfoInputs.cache
+C:\GeekBrains\C#\Practice\Lesson_9\obj\Debug\net6.0\Lesson_9.AssemblyInfo.cs
+C:\GeekBrains\C#\Practice\Lesson_9\obj\Debug\net6.0\Lesson_9.csproj.CoreCompileInputs.cache
+C:\GeekBrains\C#\Practice\Lesson_9\bin\Debug\net6.0\Lesson_9.exe
+C:\GeekBrains\C#\Practice\Lesson_9\bin\Debug\net6.0\Lesson_9.deps.json
+C:\GeekBrains\C#\Practice\Lesson_9\bin\Debug\net6.0\Lesson_9.runtimeconfig.json
+C:\GeekBrains\C#\Practice\Lesson_9\bin\Debug\net6.0\Lesson_9.dll
+C:\GeekBrains\C#\Practice\Lesson_9\bin\Debug\net6.0\Lesson_9.pdb
+C:\GeekBrains\C#\Practice\Lesson_9\obj\Debug\net6.0\Lesson_9.dll
+C:\GeekBrains\C#\Practice\Lesson_9\obj\Debug\net6.0\refint\Lesson_9.dll
+C:\GeekBrains\C#\Practice\Lesson_9\obj\Debug\net6.0\Lesson_9.pdb
+C:\GeekBrains\C#\Practice\Lesson_9\obj\Debug\net6.0\Lesson_9.genruntimeconfig.cache
+C:\GeekBrains\C#\Practice\Lesson_9\obj\Debug\net6.0\ref\Lesson_9.dll
